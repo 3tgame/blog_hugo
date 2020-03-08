@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://3tgame.github.io/blog_hugo/"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "3tgame - find my shadow"
