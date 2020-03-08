@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 3tgame - find my shadow</title>
-    <link>https://3tgame.github.io/blog_hugo/categories/</link>
+    <link>https://3tgame.github.io/blog/categories/</link>
     <description>Recent content in Categories on 3tgame - find my shadow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 08 Aug 2019 18:10:18 +0000</lastBuildDate>
     
-	<atom:link href="https://3tgame.github.io/blog_hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://3tgame.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/linux/</link>
+      <link>https://3tgame.github.io/blog/categories/linux/</link>
       <pubDate>Thu, 08 Aug 2019 18:10:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/linux/</guid>
+      <guid>https://3tgame.github.io/blog/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/android/</link>
+      <link>https://3tgame.github.io/blog/categories/android/</link>
       <pubDate>Fri, 02 Aug 2019 16:10:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/android/</guid>
+      <guid>https://3tgame.github.io/blog/categories/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>http javascript</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/http-javascript/</link>
+      <link>https://3tgame.github.io/blog/categories/http-javascript/</link>
       <pubDate>Thu, 15 Jun 2017 16:18:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/http-javascript/</guid>
+      <guid>https://3tgame.github.io/blog/categories/http-javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tomcat java</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/tomcat-java/</link>
+      <link>https://3tgame.github.io/blog/categories/tomcat-java/</link>
       <pubDate>Wed, 19 Apr 2017 16:18:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/tomcat-java/</guid>
+      <guid>https://3tgame.github.io/blog/categories/tomcat-java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tomcat session</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/tomcat-session/</link>
+      <link>https://3tgame.github.io/blog/categories/tomcat-session/</link>
       <pubDate>Thu, 13 Apr 2017 16:18:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/tomcat-session/</guid>
+      <guid>https://3tgame.github.io/blog/categories/tomcat-session/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tomcat centos</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/tomcat-centos/</link>
+      <link>https://3tgame.github.io/blog/categories/tomcat-centos/</link>
       <pubDate>Tue, 11 Apr 2017 16:18:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/tomcat-centos/</guid>
+      <guid>https://3tgame.github.io/blog/categories/tomcat-centos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>email centos</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/email-centos/</link>
+      <link>https://3tgame.github.io/blog/categories/email-centos/</link>
       <pubDate>Tue, 28 Mar 2017 14:18:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/email-centos/</guid>
+      <guid>https://3tgame.github.io/blog/categories/email-centos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>npm git</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/npm-git/</link>
+      <link>https://3tgame.github.io/blog/categories/npm-git/</link>
       <pubDate>Wed, 22 Mar 2017 17:10:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/npm-git/</guid>
+      <guid>https://3tgame.github.io/blog/categories/npm-git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>跨域</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/%E8%B7%A8%E5%9F%9F/</link>
+      <link>https://3tgame.github.io/blog/categories/%E8%B7%A8%E5%9F%9F/</link>
       <pubDate>Fri, 10 Mar 2017 15:30:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/%E8%B7%A8%E5%9F%9F/</guid>
+      <guid>https://3tgame.github.io/blog/categories/%E8%B7%A8%E5%9F%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNS</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/dns/</link>
+      <link>https://3tgame.github.io/blog/categories/dns/</link>
       <pubDate>Mon, 03 Aug 2015 17:10:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/dns/</guid>
+      <guid>https://3tgame.github.io/blog/categories/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erlang</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/erlang/</link>
+      <link>https://3tgame.github.io/blog/categories/erlang/</link>
       <pubDate>Sat, 16 May 2015 18:18:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/erlang/</guid>
+      <guid>https://3tgame.github.io/blog/categories/erlang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nginx</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/nginx/</link>
+      <link>https://3tgame.github.io/blog/categories/nginx/</link>
       <pubDate>Mon, 13 Apr 2015 14:30:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/nginx/</guid>
+      <guid>https://3tgame.github.io/blog/categories/nginx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ODBC</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/odbc/</link>
+      <link>https://3tgame.github.io/blog/categories/odbc/</link>
       <pubDate>Sat, 17 Jan 2015 12:30:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/odbc/</guid>
+      <guid>https://3tgame.github.io/blog/categories/odbc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Socket</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/socket/</link>
+      <link>https://3tgame.github.io/blog/categories/socket/</link>
       <pubDate>Fri, 26 Dec 2014 17:10:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/socket/</guid>
+      <guid>https://3tgame.github.io/blog/categories/socket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/c/</link>
+      <link>https://3tgame.github.io/blog/categories/c/</link>
       <pubDate>Sat, 06 Dec 2014 16:50:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/c/</guid>
+      <guid>https://3tgame.github.io/blog/categories/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cocos2dx</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/cocos2dx/</link>
+      <link>https://3tgame.github.io/blog/categories/cocos2dx/</link>
       <pubDate>Sat, 06 Dec 2014 16:50:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/cocos2dx/</guid>
+      <guid>https://3tgame.github.io/blog/categories/cocos2dx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lua</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/lua/</link>
+      <link>https://3tgame.github.io/blog/categories/lua/</link>
       <pubDate>Sat, 06 Dec 2014 16:50:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/lua/</guid>
+      <guid>https://3tgame.github.io/blog/categories/lua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://3tgame.github.io/blog_hugo/categories/blog/</link>
+      <link>https://3tgame.github.io/blog/categories/blog/</link>
       <pubDate>Sun, 01 Sep 2013 23:59:18 +0000</pubDate>
       
-      <guid>https://3tgame.github.io/blog_hugo/categories/blog/</guid>
+      <guid>https://3tgame.github.io/blog/categories/blog/</guid>
       <description></description>
     </item>
     

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://3tgame.github.io/blog_hugo/sitemap.xml
+Sitemap: https://3tgame.github.io/blog/sitemap.xml

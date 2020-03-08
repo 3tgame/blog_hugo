@@ -26,22 +26,22 @@
 <meta name="generator" content="Hugo 0.66.0 with theme even" />
 
 
-<link rel="canonical" href="https://3tgame.github.io/blog_hugo/post/2017-04-13-share-session-data-between-servers/" />
-<link rel="apple-touch-icon" sizes="180x180" href="/blog_hugo/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/blog_hugo/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/blog_hugo/favicon-16x16.png">
-<link rel="manifest" href="/blog_hugo/manifest.json">
-<link rel="mask-icon" href="/blog_hugo/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="canonical" href="https://3tgame.github.io/blog/post/2017-04-13-share-session-data-between-servers/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/blog/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/blog/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/blog/favicon-16x16.png">
+<link rel="manifest" href="/blog/manifest.json">
+<link rel="mask-icon" href="/blog/safari-pinned-tab.svg" color="#5bbad5">
 
 
-<link href="/blog_hugo/dist/even.c2a46f00.min.css" rel="stylesheet">
+<link href="/blog/dist/even.c2a46f00.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
 <meta property="og:title" content="在不同服务器共享Session" />
 <meta property="og:description" content="部署负载均衡时，使用一台Nginx作为前端服务器，几台Tomcat作为后端服务器。Nginx根据策略把请求分发给Tomcat服务器。默认To" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://3tgame.github.io/blog_hugo/post/2017-04-13-share-session-data-between-servers/" />
+<meta property="og:url" content="https://3tgame.github.io/blog/post/2017-04-13-share-session-data-between-servers/" />
 <meta property="article:published_time" content="2017-04-13T16:18:18+00:00" />
 <meta property="article:modified_time" content="2017-04-13T16:18:18+00:00" />
 <meta itemprop="name" content="在不同服务器共享Session">
@@ -69,7 +69,7 @@
 <body>
   <div id="mobile-navbar" class="mobile-navbar">
   <div class="mobile-header-logo">
-    <a href="/blog_hugo/" class="logo">3tgame</a>
+    <a href="/blog/" class="logo">3tgame</a>
   </div>
   <div class="mobile-navbar-icon">
     <span></span>
@@ -79,15 +79,15 @@
 </div>
 <nav id="mobile-menu" class="mobile-menu slideout-menu">
   <ul class="mobile-menu-list">
-    <a href="/blog_hugo/">
+    <a href="/blog/">
         <li class="mobile-menu-item">主页</li>
-      </a><a href="/blog_hugo/post/">
+      </a><a href="/blog/post/">
         <li class="mobile-menu-item">归档</li>
-      </a><a href="/blog_hugo/tags/">
+      </a><a href="/blog/tags/">
         <li class="mobile-menu-item">标签</li>
-      </a><a href="/blog_hugo/categories/">
+      </a><a href="/blog/categories/">
         <li class="mobile-menu-item">分类</li>
-      </a><a href="/blog_hugo/about/">
+      </a><a href="/blog/about/">
         <li class="mobile-menu-item">关于</li>
       </a>
   </ul>
@@ -95,21 +95,21 @@
   <div class="container" id="mobile-panel">
     <header id="header" class="header">
         <div class="logo-wrapper">
-  <a href="/blog_hugo/" class="logo">3tgame</a>
+  <a href="/blog/" class="logo">3tgame</a>
 </div>
 
 <nav class="site-navbar">
   <ul id="menu" class="menu">
     <li class="menu-item">
-        <a class="menu-item-link" href="/blog_hugo/">主页</a>
+        <a class="menu-item-link" href="/blog/">主页</a>
       </li><li class="menu-item">
-        <a class="menu-item-link" href="/blog_hugo/post/">归档</a>
+        <a class="menu-item-link" href="/blog/post/">归档</a>
       </li><li class="menu-item">
-        <a class="menu-item-link" href="/blog_hugo/tags/">标签</a>
+        <a class="menu-item-link" href="/blog/tags/">标签</a>
       </li><li class="menu-item">
-        <a class="menu-item-link" href="/blog_hugo/categories/">分类</a>
+        <a class="menu-item-link" href="/blog/categories/">分类</a>
       </li><li class="menu-item">
-        <a class="menu-item-link" href="/blog_hugo/about/">关于</a>
+        <a class="menu-item-link" href="/blog/about/">关于</a>
       </li>
   </ul>
 </nav>
@@ -126,7 +126,7 @@
       <div class="post-meta">
         <span class="post-time"> 2017-04-13 </span>
         <div class="post-category">
-            <a href="/blog_hugo/categories/tomcat-session/"> tomcat session </a>
+            <a href="/blog/categories/tomcat-session/"> tomcat session </a>
             </div>
         
       </div>
@@ -274,12 +274,12 @@ JSESSIONID=F8A9463760E0BC88B7919F4C35801E5B.tomcat02;</p>
 <footer class="post-footer">
       
       <nav class="post-nav">
-        <a class="prev" href="/blog_hugo/post/2017-04-19-loading-class-of-java-and-tomcat/">
+        <a class="prev" href="/blog/post/2017-04-19-loading-class-of-java-and-tomcat/">
             <i class="iconfont icon-left"></i>
             <span class="prev-text nav-default">Java和Tomcat的类加载</span>
             <span class="prev-text nav-mobile">上一篇</span>
           </a>
-        <a class="next" href="/blog_hugo/post/2017-04-11-multiple-tomcat-instances-in-one-machine/">
+        <a class="next" href="/blog/post/2017-04-11-multiple-tomcat-instances-in-one-machine/">
             <span class="next-text nav-default">同一台机器部署多个Tomcat实例</span>
             <span class="next-text nav-mobile">下一篇</span>
             <i class="iconfont icon-right"></i>
@@ -304,7 +304,7 @@ JSESSIONID=F8A9463760E0BC88B7919F4C35801E5B.tomcat02;</p>
       <a href="https://github.com/3tgame" class="iconfont icon-github" title="github"></a>
       <a href="https://www.douban.com/people/32193900/" class="iconfont icon-douban" title="douban"></a>
       <a href="https://jq.qq.com/?_wv=1027&amp;k=5ggPyQW" class="iconfont icon-pocket" title="pocket"></a>
-  <a href="https://3tgame.github.io/blog_hugo/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+  <a href="https://3tgame.github.io/blog/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
 
 <div class="copyright">
@@ -339,7 +339,7 @@ JSESSIONID=F8A9463760E0BC88B7919F4C35801E5B.tomcat02;</p>
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/blog_hugo/dist/even.26188efa.min.js"></script>
+<script type="text/javascript" src="/blog/dist/even.26188efa.min.js"></script>
 
 
 
