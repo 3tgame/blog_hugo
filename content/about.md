@@ -26,3 +26,4 @@ weight: 50
 
 本博客GitHub地址 [blog](https://github.com/3tgame/blog_hugo)
 
+一直在寻找，下个路口会遇见谁。望着天上的月亮，有种我走它走的错觉。时间告诉我，它不会等我。 望着天上星星，看似很近、实际很远。
