@@ -115,105 +115,43 @@
           <section id="posts" class="posts">
     <article class="post">
   <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/blog/post/2015-04-01-erlang-log-framework-lager/">Erlang 日志框架lager的使用</a></h1>
+    <h1 class="post-title"><a class="post-link" href="/blog/post/2014-01-06-set-up-visual-studio-environment-for-c-call-lua-code/">在Visual Studio中配置环境，用于C代码调用Lua代码</a></h1>
     <div class="post-meta">
-      <span class="post-time"> 2015-04-01 </span>
+      <span class="post-time"> 2014-01-06 </span>
       <div class="post-category">
-          <a href="/blog/categories/erlang/"> Erlang </a>
+          <a href="/blog/categories/lua/"> Lua </a>
+          <a href="/blog/categories/c/"> C </a>
           </div>
     </div>
   </header>
   
   <div class="post-content">
     <div class="post-summary">
-      介绍 lager 是一个Erlang 日志框架，github地址为 https://github.com/basho/lager。 特性为：支持分日志级别；按
+      一、使用安装LuaForWindow后的库文件 该方法不支持调试lua.lib的C代码 参见 [lua的VS或者VC环境的搭建调试] (http://blog.csdn.net/pbymw8iwm/article/details/8191947) 步骤： 安装L
     </div>
     <div class="read-more">
-      <a href="/blog/post/2015-04-01-erlang-log-framework-lager/" class="read-more-link">阅读更多</a>
+      <a href="/blog/post/2014-01-06-set-up-visual-studio-environment-for-c-call-lua-code/" class="read-more-link">阅读更多</a>
     </div>
   </div>
 </article>
 
     <article class="post">
   <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/blog/post/2015-03-31-use-intellij-idea-to-debug-erlang-otp-apps/">使用Intellij IDEA 调试 Erlang OTP应用</a></h1>
+    <h1 class="post-title"><a class="post-link" href="/blog/post/2013-09-01-setup-static-blog-use-markdown-and-dropbox/">使用Markdown和DropBox第3方服务搭建静态博客</a></h1>
     <div class="post-meta">
-      <span class="post-time"> 2015-03-31 </span>
+      <span class="post-time"> 2013-09-01 </span>
       <div class="post-category">
-          <a href="/blog/categories/erlang/"> Erlang </a>
+          <a href="/blog/categories/blog/"> blog </a>
           </div>
     </div>
   </header>
   
   <div class="post-content">
     <div class="post-summary">
-      方法 按照 Using Intellij IDEA to write and debug Erlang code 里介绍的方法可调试OTP应用。 注意要创建1个不会停止的代理文件，才可调试OTP应用。 {% highlight erlang %} -module(server). %% -export([]). -export([debug/0]). loop_sleep() -&gt; timer:sleep(5000), loop_sleep(). debug() -&gt; %%
+      注册Scriptogr服务 到Scriptogr.am注册服务。注册完成会在Dropbox目录下创建目录**_应用/scriptogram_*
     </div>
     <div class="read-more">
-      <a href="/blog/post/2015-03-31-use-intellij-idea-to-debug-erlang-otp-apps/" class="read-more-link">阅读更多</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/blog/post/2015-01-17-rtx-manager-warn-to-choose-datasource/">打开腾讯通RTX管理器提示选择数据源</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2015-01-17 </span>
-      <div class="post-category">
-          <a href="/blog/categories/odbc/"> ODBC </a>
-          </div>
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      问题：双击 RTX管理器，弹出窗口提示选择数据源。 查看 配置 D:\Program Files (x86)\Tencent\RTXServer\Config\rtxserver
-    </div>
-    <div class="read-more">
-      <a href="/blog/post/2015-01-17-rtx-manager-warn-to-choose-datasource/" class="read-more-link">阅读更多</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/blog/post/2015-01-06-use-wireshark-tcpdump-capture-android-packet/">使用 wireshark 和 tcpdump 实时抓取Android的包</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2015-01-06 </span>
-      <div class="post-category">
-          <a href="/blog/categories/android/"> Android </a>
-          </div>
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      下载可运行在Android上的tcpdump 从 USB Sniffing with tcpdump - OMAPpedia 下载编译好的tcpdump， Pre-compiled binaries 上传tcpdump到Android机器上 adb push tcpdump /data/local/tcpdump 如
-    </div>
-    <div class="read-more">
-      <a href="/blog/post/2015-01-06-use-wireshark-tcpdump-capture-android-packet/" class="read-more-link">阅读更多</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/blog/post/2014-12-26-heartbeat-packet/">心跳包</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2014-12-26 </span>
-      <div class="post-category">
-          <a href="/blog/categories/socket/"> Socket </a>
-          </div>
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      一方突然关掉电源、防火墙切断不活跃连接、网络出现问题，都可导致一方掉线，另一端如没有发送数据，不会知道该情况。 有2种方法处理上述问题 1、TC
-    </div>
-    <div class="read-more">
-      <a href="/blog/post/2014-12-26-heartbeat-packet/" class="read-more-link">阅读更多</a>
+      <a href="/blog/post/2013-09-01-setup-static-blog-use-markdown-and-dropbox/" class="read-more-link">阅读更多</a>
     </div>
   </div>
 </article>
@@ -225,10 +163,7 @@
         <i class="iconfont icon-left"></i>
         <span class="prev-text">上一页</span>
       </a>
-    <a class="next" href="/blog/page/5/">
-        <span class="next-text">下一页</span>
-        <i class="iconfont icon-right"></i>
-      </a>
+    
   </nav>
         </div>
         
