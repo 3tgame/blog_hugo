@@ -1,12 +1,16 @@
 name: GitHub Page Deploy
 
 on:
-  push:
-    branches:
-      - master
+  watch:
+    types: started
+  # push:
+  #   branches:
+  #     - master
 jobs:
   build-deploy:
     runs-on: ubuntu-18.04
+    if: github.event.repository.owner.id == github.event.sender.id
+    
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
